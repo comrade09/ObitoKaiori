@@ -46,8 +46,8 @@ bot_name = f"{dispatcher.bot.first_name}"
 
 
 PM_START_TEXT = """
-\n◍ Hey There! [👩‍💼](https://telegra.ph/file/b2d554241222fa7ea16a5.jpg) 
-I'ᴍ ʀɪᴋᴋᴀ ᴛᴀᴋᴀɴᴀꜱʜɪ Fʀᴏᴍ 
+\n◍ Hey There! [👩‍💼](https://telegra.ph/file/96210a86605dba6052642.jpg) 
+I'ᴍ Obito Fʀᴏᴍ 
 ◍ I'ᴍ Hɪɢʜʟʏ Aᴅᴠᴀɴᴄᴇ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ 
 ────────────────────────
 × Uᴘᴛɪᴍᴇ: {}
@@ -57,10 +57,10 @@ I'ᴍ ʀɪᴋᴋᴀ ᴛᴀᴋᴀɴᴀꜱʜɪ Fʀᴏᴍ
 
 buttons = [
      [
-        InlineKeyboardButton(text="➕ ADD Me TO YOUR GROUP ➕", url="t.me/chizuru_mizuhara_robot?startgroup=true"),   
+        InlineKeyboardButton(text="➕ ADD Me TO YOUR GROUP ➕", url="t.me/ObitoUchiha07_bot?startgroup=true"),   
     ],
     [
-        InlineKeyboardButton(text=" About Me ❄️ ", url=f"https://t.me/tpxsupport404"),
+        InlineKeyboardButton(text=" About Me ❄️ ", url=f"https://t.me/linklockernet"),
     ],
    
     [
